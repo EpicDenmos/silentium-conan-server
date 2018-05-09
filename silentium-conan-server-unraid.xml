@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+    <Beta>False</Beta>
+    <Category>ConanServer:</Category>
+    <Name>silentium-conan-server</Name>
+    <Description>
+        Conan Exile Server
+    </Description>
+    <Overview>
+        Conan Exile Server
+    </Overview>
+    <Support></Support>
+    <Registry>https://hub.docker.com/r/alinmear/docker-conanexiles/</Registry>
+    <GitHub>https://github.com/alinmear/docker-conanexiles</GitHub>
+    <Repository>alinmear/docker-conanexiles</Repository>
+    <ExtraParams></ExtraParams>
+</Containers>
